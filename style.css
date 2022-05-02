@@ -1,0 +1,36 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin-bottom: 100px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.apple {
+    text-shadow: 2px 2px 2px red;
+    color: red;
+    width: 40%;
+}
+
+.books {
+    text-shadow: 2px 2px 2px red;
+    color: red;
+    width: 40%;
+}
+
+.bottle {
+    text-shadow: 2px 2px 2px red;
+    color: red;
+    width: 40%;
+}
+
+.tv{
+    text-shadow: 2px 2px 2px red;
+    color: red;
+    width: 40%;
+}
