@@ -3,7 +3,7 @@
 {
 font-size: 23px;
 width: 100%;
-margin-bottom: 100px;
+margin-bottom: 0px;
 }
 
 body{
@@ -33,4 +33,10 @@ body{
     text-shadow: 2px 2px 2px red;
     color: red;
     width: 40%;
+}
+
+.HOME {
+    left: 0px;
+    top: 30px;
+    margin-bottom: 90px;
 }

@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.HOME {
+    left: 0px;
+    top: 30px;
+    margin-bottom: 0px;
+}
